@@ -42,4 +42,4 @@ It is a MITRE ATT&CK Matrix for Cloud.
 
 # Author
 ### ThreatSource@Alibaba
-### AvFisher@AWS
+### AvFisher@Amazon
